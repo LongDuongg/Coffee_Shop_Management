@@ -1,0 +1,13 @@
+C:\Users\Admin\Training-C#\QuanLyNhaHangBanThucPham\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.exe.config
+C:\Users\Admin\Training-C#\QuanLyNhaHangBanThucPham\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.exe
+C:\Users\Admin\Training-C#\QuanLyNhaHangBanThucPham\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.pdb
+C:\Users\Admin\Training-C#\QuanLyNhaHangBanThucPham\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csprojAssemblyReference.cache
+C:\Users\Admin\Training-C#\QuanLyNhaHangBanThucPham\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.AccountProfile.resources
+C:\Users\Admin\Training-C#\QuanLyNhaHangBanThucPham\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.Admin.resources
+C:\Users\Admin\Training-C#\QuanLyNhaHangBanThucPham\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.TableManager.resources
+C:\Users\Admin\Training-C#\QuanLyNhaHangBanThucPham\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fSignIn.resources
+C:\Users\Admin\Training-C#\QuanLyNhaHangBanThucPham\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\Admin\Training-C#\QuanLyNhaHangBanThucPham\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\Admin\Training-C#\QuanLyNhaHangBanThucPham\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Training-C#\QuanLyNhaHangBanThucPham\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.exe
+C:\Users\Admin\Training-C#\QuanLyNhaHangBanThucPham\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.pdb
